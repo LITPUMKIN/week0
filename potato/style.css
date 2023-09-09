@@ -1,0 +1,35 @@
+body {
+    padding: 20px;
+    background-image: url(https://cdn.myportfolio.com/c85b3840-062a-4a72-bf79-5590a31779fe/5e50a4be-4ac9-4c50-8ccd-4b41f7963b5f_rw_1920.png?h=835023e75a36c696f7ab637d99329711);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #927653;
+    background-color: antiquewhite;
+}
+
+.project_section {
+    width: 100%;
+    margin: 50px 0;
+    background-color: #faebd744;
+}
+
+.project_heading {
+    color: #927653;
+}
+
+.project_description {
+    width: 50%;
+    display: inline-block;
+    margin: 0;
+}
+
+.project_video {
+    width: 50%;
+}
+
+.project_image {
+    width: 32%;
+}
